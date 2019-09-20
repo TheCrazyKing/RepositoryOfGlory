@@ -1,0 +1,29 @@
+[33mcommit 10df0ad59ad4a483b3f9799fbfaf4801b78979f1 e147852a73f01b46a0e0f57271e50d06dbbb6775[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: TheCrazyKing <lucas.meier@epfl.ch>
+Date:   Fri Sep 20 12:01:32 2019 +0200
+
+    RM
+
+[33mcommit e147852a73f01b46a0e0f57271e50d06dbbb6775 3129a5560030f4cb52df7cb6d9f4b453cb9cff9a[m
+Author: TheCrazyKing <lucas.meier@epfl.ch>
+Date:   Fri Sep 20 11:55:45 2019 +0200
+
+    AddedGitIniore
+
+[33mcommit 3129a5560030f4cb52df7cb6d9f4b453cb9cff9a f1ddb90d02713b0c9a47f498b5c25c7a2e3a6fb8[m
+Author: TheCrazyKing <lucas.meier@epfl.ch>
+Date:   Fri Sep 20 11:52:33 2019 +0200
+
+    Nice no comma
+
+[33mcommit f1ddb90d02713b0c9a47f498b5c25c7a2e3a6fb8 b64a84e9fd5224a1643acdcf5d6b198b01d7d2e5[m
+Author: TheCrazyKing <lucas.meier@epfl.ch>
+Date:   Fri Sep 20 11:49:16 2019 +0200
+
+    Added a HelloWorld!
+
+[33mcommit b64a84e9fd5224a1643acdcf5d6b198b01d7d2e5[m
+Author: Lucas David Meier <43467225+TheCrazyKing@users.noreply.github.com>
+Date:   Fri Sep 20 11:38:32 2019 +0200
+
+    Initial commit
